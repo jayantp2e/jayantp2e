@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayant kumar Bhati</h1>
-<h3 align="center">As an Full Stack blockchain developer, my objective is to leverage my skills and knowledge to design, develop, and implement innovative blockchain solutions. I am passionate about exploring the potential of blockchain technology and utilizing it to create secure, transparent, and decentralized applications. I have a strong background in smart contract development, DApp development, and integrating blockchain with other systems. </h3>
+<h3 align="center">As an Full Stack blockchain developer, my objective is to leverage my skills and knowledge to design, develop, and implement innovative blockchain solutions. I am passionate about exploring the potential of blockchain technology and utilizing it to create secure, transparent, and decentralized applications. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-mac-art&label=Profile%20views&color=0e75b6&style=flat" alt="jay-mac-art" /> </p>
 
@@ -30,5 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-mac-art&show_icons=true&locale=en" alt="jay-mac-art" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-mac-art&" alt="jay-mac-art" /></p>
-
 
